@@ -18,7 +18,7 @@
   c) JpaRepository {Including all the parameters}
 * Reference: https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
 * Connecting with Mysql + Spring Boot, we need to add like this in property file
-```xml
+```properties
 	## Spring DATASOURCE (DataSourceAutoConfiguration & DataSourceProperties)
 	spring.datasource.url = jdbc:mysql://localhost:3306/notes_app?useSSL=false
 	spring.datasource.username = root
