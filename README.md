@@ -1,10 +1,12 @@
 # SpringBootUsingSpringSecurity
 
-* Spring Boot + Spring Security + Java Configuration + MVC + Maven , Example
+* Spring Boot + Spring Security + Java Configuration + Jpa + H2-database + MVC + Maven , Example
 
 > **###1. Technologies**
 * Spring Boot 1.3.5.RELEASE {using parent}
 * Spring Boot Security 1.3.5.RELEASE {using parent}
+* Jpa
+* H2-database
 
 > **###2. To Run this project locally**
 * $ git clone https://github.com/AkashChauhanSoftEngi/SpringBootUsingSpringSecurity
