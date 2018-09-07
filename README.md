@@ -1,5 +1,22 @@
 # SpringBootUsingSpringSecurity
 
+* Spring Boot + Spring Security + Java Configuration + MVC + Maven , Example
+
+> **###1. Technologies**
+* Spring Boot 1.3.5.RELEASE {using parent}
+* Spring Boot Security 1.3.5.RELEASE {using parent}
+
+> **###2. To Run this project locally**
+* $ git clone https://github.com/AkashChauhanSoftEngi/SpringBootUsingSpringSecurity
+* $ mvn tomcat7:run
+
+> **###3.  Access** 
+* http://localhost:8080/
+* http://localhost:8080/welcome
+* http://localhost:8080/login
+* http://localhost:8080/registration
+
+> **###4. Important things to keep in mind**
 * Spring provides, the abstract repositories, that are implemented at run time by spring container to perform CRUD operations.
 * Just need to provides the abstracts methods in the interface
 * When you design your own method in the interface which extends JpaInterface
