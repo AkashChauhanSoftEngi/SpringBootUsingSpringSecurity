@@ -35,7 +35,7 @@
   a) Repository {No methods}
   b) CrudRepository　{Crud basic methods} which extends Repository
   c) JpaRepository {Including all the parameters}
-* Reference
+* References
   - https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
   - https://medium.com/@gustavo.ponce.ch/spring-boot-spring-mvc-spring-security-mysql-a5d8545d837d
   
