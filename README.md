@@ -10,7 +10,7 @@
 
 > **###2. To Run this project locally**
 * $ git clone https://github.com/AkashChauhanSoftEngi/SpringBootUsingSpringSecurity
-* $ mvn tomcat7:run
+* $ tomcat {Embedded}
 
 > **###3.  Access** 
 * http://localhost:8080/
